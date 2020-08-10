@@ -1,3 +1,5 @@
+### LogoIt
+
 This python program adds logos to all pictures in directory.
 
 To run on windows (on the run dialog) add the scripts folder to the system path:
